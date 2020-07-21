@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Yağmur 👋 👧
 
 <!--
 **yagmuratici/yagmuratici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with emre
-- 🌱 I’m currently learning nest
+- 🔭 I’m currently working on .Net technologies
+- 🌱 I’m currently learning Nest.js and GraphQL 
+- 😄 I'm interesting TypeScript and React.js
+- 💬 Ask me about .Net technologies and I can talk about it for hours and hours 😁 
